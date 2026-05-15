@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27805101/README.md)
 # C-Drive Cleanup
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that scans and cleans junk files on Windows C drive to free up disk space.
